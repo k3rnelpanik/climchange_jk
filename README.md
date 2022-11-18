@@ -9,3 +9,4 @@ The main aim of hosting the dataset on this repository is to provide a hassle fr
 
 The datasets hosted in this repository include different climate parameters; Mean Temperature (tmp), Average Maximum Temperature (tmx), Average Minimum Temperature (tmn), Precipitation (pre), Cloud Cover (cld) and Potential Evapotranspiration (pet).
 
+The raw data provided by CEDA was procured with daily intervals and has also been hosted under the raw directory. The data has been processed and uploaded with monthly intervals (an important distinction users should note).
